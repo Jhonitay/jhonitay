@@ -72,3 +72,10 @@ Here are some ideas to get you started:
     </div>
 </body>
 </html>
+
+### Bahasa Pemrograman
+
+- JavaScript: 50%
+- Python: 30%
+- HTML/CSS: 20%
+
