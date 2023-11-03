@@ -1,44 +1,6 @@
 ### Hi there 👋
 
+<a href="http://www.github.com/Jhonitay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonitay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-my name is **jhonitay**
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on cek
-- 🌱 I’m currently learning cek
-- 👯 I’m looking to collaborate on cek
-- 🤔 I’m looking for help with cek
-- 💬 Ask me about cek
-- 📫 How to reach me:cek
-- 😄 Pronouns: cek
-- ⚡ Fun fact: cek
-
-### Hi there 👋
-
-I'm your GitHub profile.
-
-```html
-<div style="background-color: #000; color: #fff; padding: 20px; text-align: center;">
-
-  <h1>GitHub Profile</h1>
-
-  <div style="margin-bottom: 10px;">
-    <span style="font-size: 18px; color: #fff;">JavaScript</span>
-    <div style="background-color: #333; border-radius: 5px; padding: 3px; width: 200px; margin: 0 auto;">
-      <div style="background-color: #fff; height: 20px; border-radius: 5px; width: 50%;"></div>
-    </div>
-  </div>
-
-  <!-- Add similar blocks for other programming languages -->
-
-</div>
-
-
-
-### Bahasa Pemrograman
-
-- JavaScript: 50%
-- Python: 30%
-- HTML/CSS: 20%
+<a href="https://github.com/Jhonitay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonitay&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
